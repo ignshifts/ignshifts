@@ -1,4 +1,4 @@
-Majority of my repos are private, I plan to create public ones soon.
+Majority of my repos are private, creating public ones soon.
 
 ∙ js, py & lua enthusiast
 
