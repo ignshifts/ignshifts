@@ -14,7 +14,6 @@ info.contacts = {
        "Shifts#1361"
    ]
 },
-  
 
 info.username = 'Shifts';
 info.aliases = null;
