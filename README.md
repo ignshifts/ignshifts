@@ -7,25 +7,20 @@ const readMe = require('github');
 
 const info = readMe.data;
 
-info.username = 'Shifts';
-
-  info.contacts = {
-  "Twitter": 
- [
-   'ignshifts',
- ],
-"Discord": 
-[
-"Shifts#9015",
-"Shifts#1361"
-]
+info.contacts = {
+  "Twitter": "ignshifts",
+  "Discord": [
+       "Shifts#9015",
+       "Shifts#1361"
+   ]
 },
+  
 
-info.aliases = "Shifts";
-info.location = "United States, New York"
-info.age = "15"
+info.username = 'Shifts';
+info.aliases = null;
+info.location = "United States, New York";
+info.age = "15";
 
-}
 ```
  [Shifts#9015](https://discord.com/users/651167823749578798)
  
