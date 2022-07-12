@@ -9,10 +9,9 @@ const info = readMe.data;
 
 info.username = 'Shifts';
   info.contacts = {
-  "Discord": 
+  "Twitter": 
  [
-   '[Shifts#9015](https://discord.com/users/651167823749578798)',
-   '[Shifts#1361](https://discord.com/users/994717305542021244)'
+   'ignshifts',
  ]
 },
 
