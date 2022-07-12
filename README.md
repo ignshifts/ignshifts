@@ -11,7 +11,7 @@ info.contacts = {
   "Twitter": "ignshifts",
   "Discord": [
        "Shifts#9015",
-       "Shifts#1361"
+       "Shifts#1337"
    ]
 },
 
@@ -21,6 +21,6 @@ info.location = "United States, New York";
 info.age = "15";
 
 ```
- [Shifts#9015](https://discord.com/users/651167823749578798)
+ [Shifts#9015](https://discord.com/users/651167823749578798) ~ *This account is disabled for a while*
  
- [Shifts#1361](https://discord.com/users/994717305542021244)
+ [Shifts#1337](https://discord.com/users/994717305542021244)
