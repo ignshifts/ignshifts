@@ -21,3 +21,7 @@ info.location = "United States, New York"
 info.age = "15"
 
 }
+```
+ [Shifts#9015](https://discord.com/users/651167823749578798)
+ 
+ [Shifts#1361](https://discord.com/users/994717305542021244)
