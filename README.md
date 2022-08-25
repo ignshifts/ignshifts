@@ -11,7 +11,7 @@ info.contacts = {
   "Twitter": "ignshifts",
   "Discord": [
        "Shifts#9015",
-       "Shifts#1337"
+       "Shifts#8276"
    ]
 },
 
