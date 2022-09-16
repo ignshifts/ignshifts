@@ -18,7 +18,7 @@ info.contacts = {
 info.username = 'Shifts';
 info.aliases = null;
 info.location = "United States, New York";
-info.age = "15";
+info.age = "16";
 
 ```
  [Shifts#9015](https://discord.com/users/651167823749578798)
