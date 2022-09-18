@@ -11,7 +11,7 @@ info.contacts = {
   "Twitter": "ignshifts",
   "Discord": [
        "Shifts#9015",
-       "Shifts#8276"
+       "Shifts#1337"
    ]
 },
 
@@ -23,4 +23,4 @@ info.age = "16";
 ```
  [Shifts#9015](https://discord.com/users/651167823749578798)
  
- [Shifts#8276](https://discord.com/users/994717305542021244)
+ [Shifts#1337](https://discord.com/users/994717305542021244)
